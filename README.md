@@ -11,5 +11,6 @@ The test performs the following:
 - Adds a new pathology test
 
 
-https://github.com/user-attachments/assets/af23d5e1-8235-4c1c-9f0c-02e871129afc
 
+
+[Screencast from 13-05-25 12_51_12 PM IST.webm](https://github.com/user-attachments/assets/83abbf23-aecb-4527-a8f3-b619f203abef)
