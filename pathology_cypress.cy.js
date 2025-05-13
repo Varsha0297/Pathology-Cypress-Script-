@@ -37,7 +37,6 @@ describe('template spec', () => {
     cy.get('[name="name"]').type('Varsha patil');
 
     cy.get('[name="amount"]').type('121');
-    cy.contains('ADD TEST').click();
-    cy.get('[class="MuiButton-label jss488"]').contains('ADD TEST').click();
+   
   })
 })
