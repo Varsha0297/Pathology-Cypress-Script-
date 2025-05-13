@@ -10,7 +10,4 @@ The test performs the following:
 - Adds a new patient
 - Adds a new pathology test
 
-
-
-
 [Screencast from 13-05-25 12_51_12 PM IST.webm](https://github.com/user-attachments/assets/83abbf23-aecb-4527-a8f3-b619f203abef)
