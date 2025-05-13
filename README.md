@@ -9,3 +9,7 @@ The test performs the following:
 - Verifies dashboard elements
 - Adds a new patient
 - Adds a new pathology test
+
+
+https://github.com/user-attachments/assets/af23d5e1-8235-4c1c-9f0c-02e871129afc
+
